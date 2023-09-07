@@ -52,6 +52,7 @@ p {
 .menu-text {
     font-size: 16pt;
     color: white;
+    text-decoration: none;
 }
 
 .menu-text:hover {
@@ -148,6 +149,13 @@ h2 {
     left: -15px;
     width: 30px;
     height: 30px;
+}
+
+.game-container {
+    width: 360px;
+    height: auto;
+    margin: auto;
+    text-align: center;
 }
 
 .game-thumbnail {
